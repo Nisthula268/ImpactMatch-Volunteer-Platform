@@ -1,8 +1,76 @@
-# 🌱 ImpactMatch — AI-Powered Volunteer Matching Platform
+# 🌱 ImpactMatch
 
-A production-ready MERN stack application that connects volunteers with organizations using a hybrid AI matching system, with GPS-verified attendance, mentorship, and digital certificate generation.
+### AI-Powered Volunteer Engagement Platform
+
+ImpactMatch is a MERN-stack platform that connects volunteers with NGOs using intelligent skill and interest matching, mentorship support, attendance tracking, and digital certificate generation.
 
 ---
+
+## 🚀 Key Features
+
+✅ Intelligent Volunteer Matching
+
+✅ Role-Based Dashboards
+
+✅ Opportunity Management
+
+✅ Mentorship System
+
+✅ Attendance Tracking
+
+✅ Digital Certificate Generation
+
+✅ JWT Authentication & Authorization
+
+✅ Docker Deployment Support
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](docs/login.png)
+
+### Volunteer Dashboard
+
+![Dashboard](docs/dashboard.png)
+
+### Certificate Generation
+
+![Certificate](docs/certificate.png)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Context API
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Authentication
+- JWT
+- bcrypt
+
+### Deployment
+- Docker
+
+## 👩‍💻 My Contributions
+
+- Developed role-based dashboard interfaces
+- Implemented authentication and authorization
+- Integrated volunteer matching workflows
+- Built certificate generation and verification features
+- Participated in database schema design
+- Assisted in UI/UX implementation
 
 ## 📦 Project Structure
 
