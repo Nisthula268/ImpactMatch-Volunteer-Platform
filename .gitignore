@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables — NEVER COMMIT
+.env
+*/.env
+backend/.env
+
+# Build output
+frontend/build/
+
+# Uploads (user-generated files)
+backend/uploads/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
